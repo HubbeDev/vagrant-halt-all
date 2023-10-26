@@ -1,5 +1,5 @@
 # vagrant-halt-all
-Welcome to vagrant-halt-all, a one-stop solution for gracefully shutting down all running Vagrant boxes with a single command. If you're a developer who frequently juggles multiple Vagrant environments, this script is designed to save you time and avoid potential headaches.
+A one-stop solution for gracefully shutting down all running Vagrant boxes with a single command.
 
 ## Installation 
 
