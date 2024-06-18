@@ -5,7 +5,7 @@ A one-stop solution for gracefully shutting down all running Vagrant boxes with 
 
 1. Clone the repo
 ```bash
-   git clone https://github.com/yourusername/vagrant-halt-all.git
+   git clone [https://github.com/yourusername/vagrant-halt-all.git](https://github.com/HubbeDev/vagrant-halt-all)
 ```
 2. Navigate to the repository folder.
 ```bash
